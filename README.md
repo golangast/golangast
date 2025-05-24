@@ -3,11 +3,11 @@
 
 Skills: Go / Bootstrap / Wordpress / Jqeury / JS / HTML / CSS
 
-- 🔭 I’m currently working on https://github.com/golangast/groundup 
+- 🔭 I’m currently working on [nlptagger](https://github.com/golangast/nlptagger)
 - 🌱 I’m currently learning Golang 
-- 👯 I’m looking to collaborate on https://github.com/golangast/groundup 
-- 🤔 I’m looking for help with https://github.com/golangast/groundup 
-- 💬 Ask me about https://github.com/golangast/groundup 
+- 👯 I’m looking to collaborate on [nlptagger ](https://github.com/golangast/nlptagger)
+-
+- 💬 Ask me about https://github.com/golangast/nlptagger
 - 📫 How to reach me: zendrulat@gmail.com 
 
 
