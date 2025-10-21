@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-As a versatile **Computer Engineer** and **Golang Developer**, I specialize in high-performance, custom-built **Natural Language Processing (NLP) models**. My commitment is to deliver robust, efficient, and novel solutions for complex structured language interpretation, with a core focus on systems like my **nlptagger** project. I am driven by leveraging advanced Go programming to push the boundaries of AI/ML in new contexts.
+As a versatile **Golang Developer**, I specialize in high-performance, custom-built **Natural Language Processing (NLP) models**. My commitment is to deliver robust, efficient, and novel solutions for complex structured language interpretation, with a core focus on systems like my **nlptagger** project. I am driven by leveraging advanced Go programming to push the boundaries of AI/ML in new contexts.
 
 ---
 
