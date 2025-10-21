@@ -45,22 +45,22 @@ This project is not a general-purpose LLM; it is a custom solution for interpret
 
 ## 📊 Development Activity & Stats
 
-### 📈 Contributions and Achievements
+### Key Metrics & Language Use
 
-| Standard Stats | Language Breakdown | Contribution Trophy |
+| Main Stats Card | Top Languages | Profile Trophy |
 | :--- | :--- | :--- |
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=golangast&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golangast&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![trophy](https://github-profile-trophy.vercel.app/?username=golangast)](https://github.com/ryo-ma/github-profile-trophy) |
 
-### 📅 Streak & Activity
+### Streak, Metrics, and Views
 
-| Streak Stats | Profile Views | Developer Metrics |
+| Streak Stats | Developer Metrics | Profile Views |
 | :--- | :--- | :--- |
-| ![GitHub streak stats](https://streak-stats.demolab.com/?user=golangast) | ![Profile views](https://gpvc.arturio.dev/golangast) | ![GitHub metrics](https://metrics.lecoq.io/golangast) |
+| ![GitHub streak stats](https://streak-stats.demolab.com/?user=golangast) | ![GitHub metrics](https://metrics.lecoq.io/golangast) | ![Profile views](https://gpvc.arturio.dev/golangast) |
 
-### 🧱 3D Contribution Overview
+### 🐍 GitHub Contribution Chart (Snake)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/main/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake" />
+  <img src="https://github.com/golangast/golangast/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Chart" />
 </p>
 
 ***
