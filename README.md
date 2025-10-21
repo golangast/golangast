@@ -1,51 +1,56 @@
-### Hi there 👋, I'm Zachary Endrulat
+### Hello, I'm Zachary Endrulat 👋
 
-#### A passionate developer focused on building custom Natural Language Processing tools from scratch using Go.
+#### 💻 Computer Engineer | Golang Developer | Custom NLP Solutions
 
 ---
 
-## 🚀 Featured Project: nlptagger
+## 🚀 About My Work
 
-| Project | Status | Core Functionality | Technologies |
+As a developer, I specialize in building **high-performance, custom Natural Language Processing (NLP) models** from scratch, with a strong focus on the **Go (Golang)** language. My work is centered on creating intelligent systems for structured language interpretation.
+
+### 🌟 Featured Project: nlptagger
+
+| Project | Status | Core Focus | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| [**golangast/nlptagger**](https://github.com/golangast/nlptagger) | **Active Development** | A highly specialized Go-based NLP library designed to analyze and understand complex **Command Line Interface (CLI) commands** to accurately determine user **intent**. | **Go**, Neural Networks (BiLSTM), Word2Vec, CRF, Semantic Role Labeling |
+| [**golangast/nlptagger**](https://github.com/golangast/nlptagger) | **Active Development** | A specialized Go library for analyzing and understanding **CLI commands** by performing advanced sequence labeling (POS, NER, SRL) to determine user **Intent**. | **Go**, Neural Networks (BiLSTM), Word2Vec, CRF, Semantic Role Labeling |
 
-### 🧠 nlptagger Deep Dive
+### 🧠 Deep Dive: NLP Components
 
-This project is not a general-purpose LLM; it is a custom solution for interpreting structured commands, built using foundational NLP techniques:
+My current efforts are focused on implementing and optimizing core NLP components entirely in Go, including:
 
-* **Intent Classification:** The primary goal is to map user input (a CLI command) to a specific, actionable intent (e.g., "create-file", "check-status", "configure-network").
-* **Semantic Role Labeling (SRL):** Used to identify the roles of words in a command—who did what, to whom, where, etc.—to better understand the command's structure and arguments.
-* **Word2Vec Embeddings:** Implemented to capture semantic relationships between words, which is crucial for the neural networks to handle synonyms and context effectively.
-* **BiLSTM & CRF Models:** Employed for robust sequence labeling tasks like **Part-of-Speech (POS) Tagging** and **Named Entity Recognition (NER)** to process the command input.
+* **Intent Classification:** Mapping complex command phrases to specific, actionable user goals.
+* **Semantic Role Labeling (SRL):** Precisely identifying the grammatical and logical roles of arguments within a command (e.g., agent, action, object).
+* **Word Embeddings (Word2Vec):** Generating custom, context-aware word vectors to improve model accuracy and semantic understanding.
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🛠️ Skills & Technologies
 
-| Category | Key Skills and Focus |
+| Category | Key Skills & Tools |
 | :--- | :--- |
-| **Go & Engineering** | **Go (Golang)**, Concurrency (goroutines), Profiling, Idiomatic Go Practices |
-| **NLP & Machine Learning** | **Custom NLP Model Design**, Neural Networks (BiLSTM), Semantic Role Labeling, Intent Classification, Word2Vec |
-| **Web & Frontend** | JavaScript (JS), HTML, CSS, WordPress, Bootstrap, JQuery |
+| **Go & Engineering** | **Go (Golang)**, Concurrency (goroutines), Profiling, Idiomatic Go, Data Structures & Algorithms |
+| **NLP & AI** | **Custom NLP Model Design**, BiLSTM, CRF, Semantic Role Labeling, Intent Classification, Tokenization |
+| **Web Development** | JavaScript (JS), HTML, CSS, WordPress, Bootstrap, JQuery |
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect & Collaborate
 
-* **🔭 I’m currently working on:** Optimizing the training pipeline and improving the accuracy of the **Semantic Role Labeling** within `nlptagger`.
-* **🌱 I’m currently learning:** Advanced techniques for training and tuning neural networks for sequence prediction tasks in Go.
-* **👯 I’m looking to collaborate on:** Any aspect of the [**nlptagger**](https://github.com/golangast/nlptagger) codebase, especially for code review, performance improvements, or expanding the training data.
-* **💬 Ask me about:** The challenges of building custom NLP models in a lower-level language like Go, or how `nlptagger` compares to other parsing methods.
-* **📫 How to reach me:** `zendrulat@gmail.com` | [X/Twitter](https://x.com/ZachEnd) | [Discord](https://discord.gg/BW38JQS9)
+* **🔭 I’m currently working on:** Optimizing the training and performance of the Semantic Role Labeling models for `nlptagger`.
+* **🌱 I’m learning:** Advanced deep learning architectures for sequence-to-sequence tasks in a Go environment.
+* **👯 I’m looking to collaborate on:** Expanding the [**nlptagger**](https://github.com/golangast/nlptagger) codebase—model improvements, testing, or documentation.
+* **💬 Ask me about:** Building complex machine learning systems without external libraries, or anything about Go tooling.
+* **📫 How to reach me:** `zendrulat@gmail.com`
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/golangast)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCHJlAqTCdlN_bjUx-1_CPmg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://endrulats.com/?page_id=149)  
+| Email | X/Twitter | Discord | Website | YouTube |
+| :--- | :--- | :--- | :--- | :--- |
+| [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Email' height='25'>](mailto:zendrulat@gmail.com) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='25'>](https://x.com/ZachEnd) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='25'>](https://discord.gg/BW38JQS9) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](https://endrulats.com/?page_id=149) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='25'>](https://www.youtube.com/channel/UCHJlAqTCdlN_bjUx-1_CPmg) |
 
 ---
 
-## 📊 Development Activity & Stats
+## 📊 GitHub Stats
 
-### Key Metrics & Language Use
+### Key Metrics & Contributions
 
 | Main Stats Card | Top Languages | Profile Trophy |
 | :--- | :--- | :--- |
@@ -62,5 +67,3 @@ This project is not a general-purpose LLM; it is a custom solution for interpret
 <p align="center">
   <img src="https://github.com/golangast/golangast/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Chart" />
 </p>
-
-***
