@@ -8,7 +8,7 @@ Skills: Go / Bootstrap / Wordpress / Jqeury / JS / HTML / CSS
 - 👯 I’m looking to collaborate on [nlptagger ](https://github.com/golangast/nlptagger)
 -
 - 💬 Ask me about https://github.com/golangast/nlptagger
-- 📫 How to reach me: zendrulat@gmail.com 
+- 📫 How to reach me: zendrulat@gmail.com, https://discord.gg/BW38JQS9, https://x.com/ZachEnd
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/golangast)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCHJlAqTCdlN_bjUx-1_CPmg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://endrulats.com/?page_id=149)  
