@@ -33,13 +33,37 @@ As a versatile **Golang Developer**, I specialize in high-performance, custom-bu
 
 ---
 
-## 🛠️ Skills & Technologies
+<p align="center">Trying to touch and learn 1 new thing everyday!</p>
 
-| Category | Skills and Focus |
-| :--- | :--- |
-| **Programming** | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> |
-| **AI / NLP** | <img src="https://img.shields.io/badge/Natural%20Language%20Processing-34A853?style=flat&logoColor=white" /> <img src="https://img.shields.io/badge/Neural%20Networks-EA4335?style=flat&logoColor=white" /> <img src="https://img.shields.io/badge/Word2Vec-4285F4?style=flat&logo=word2vec&logoColor=white" /> |
-| **Development** | <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> |
+## Tech Stack </>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <br />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-34A853?style=flat&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-EA4335?style=flat&logoColor=white" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/Word2Vec-4285F4?style=flat&logo=word2vec&logoColor=white" alt="Word2Vec" />
+  <br />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <br />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <br />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+  <br />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
 ---
 
@@ -74,13 +98,11 @@ As a versatile **Golang Developer**, I specialize in high-performance, custom-bu
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golangast&theme=radical" alt="GitHub Profile Summary" />
     <br/>
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?username=golangast&theme=radical" alt="GitHub Tech Stack" />
+    <br/>
     <a href="https://github.com/golangast">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=golangast&theme=radical" alt="Zachary's GitHub Activity Graph" />
     </a>
-    <br/>
-    <img src="https://raw.githubusercontent.com/golangast/golangast/master/img/waka-main.svg" alt="WakaTime Overall Coding Activity" />
-    <img src="https://raw.githubusercontent.com/golangast/golangast/master/img/waka-langs.svg" alt="WakaTime Top Languages" />
-    <img src="https://raw.githubusercontent.com/golangast/golangast/master/img/waka-commits.svg" alt="WakaTime Commits" />
     <br/>
         <img src="https://github-readme-stats.vercel.app/api?username=golangast&show_icons=true&theme=radical&hide_border=true" alt="Zachary's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golangast&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
@@ -92,11 +114,5 @@ As a versatile **Golang Developer**, I specialize in high-performance, custom-bu
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=golangast&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
-### 🐍 Contribution Chart
-
-<p align="center">
-  <img src="https://github.com/golangast/golangast/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Chart" />
-</p>
 
 ***
